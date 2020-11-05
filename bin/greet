@@ -3,5 +3,5 @@ require_relative "../lib/greeting.rb"
   puts
   puts
   name = gets.strip
-  greeting (name)
+  greeting(name)
 # code your CLI here!
